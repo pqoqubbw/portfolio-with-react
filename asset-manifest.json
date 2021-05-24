@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pqoqubbw/portfolio-with-react.git/static/css/main.9c2a5e96.chunk.css",
-    "main.js": "/pqoqubbw/portfolio-with-react.git/static/js/main.e4f658c2.chunk.js",
-    "main.js.map": "/pqoqubbw/portfolio-with-react.git/static/js/main.e4f658c2.chunk.js.map",
-    "runtime-main.js": "/pqoqubbw/portfolio-with-react.git/static/js/runtime-main.9ffb1f48.js",
-    "runtime-main.js.map": "/pqoqubbw/portfolio-with-react.git/static/js/runtime-main.9ffb1f48.js.map",
-    "static/js/2.b2a8d1aa.chunk.js": "/pqoqubbw/portfolio-with-react.git/static/js/2.b2a8d1aa.chunk.js",
-    "static/js/2.b2a8d1aa.chunk.js.map": "/pqoqubbw/portfolio-with-react.git/static/js/2.b2a8d1aa.chunk.js.map",
-    "index.html": "/pqoqubbw/portfolio-with-react.git/index.html",
-    "static/css/main.9c2a5e96.chunk.css.map": "/pqoqubbw/portfolio-with-react.git/static/css/main.9c2a5e96.chunk.css.map",
-    "static/js/2.b2a8d1aa.chunk.js.LICENSE.txt": "/pqoqubbw/portfolio-with-react.git/static/js/2.b2a8d1aa.chunk.js.LICENSE.txt",
-    "static/media/github.1b063b6c.png": "/pqoqubbw/portfolio-with-react.git/static/media/github.1b063b6c.png",
-    "static/media/instagram.f0c161ca.png": "/pqoqubbw/portfolio-with-react.git/static/media/instagram.f0c161ca.png",
-    "static/media/logo.f2c93d36.png": "/pqoqubbw/portfolio-with-react.git/static/media/logo.f2c93d36.png",
-    "static/media/logoInfo.33a8d614.jpg": "/pqoqubbw/portfolio-with-react.git/static/media/logoInfo.33a8d614.jpg",
-    "static/media/telegram.6f5bdc76.png": "/pqoqubbw/portfolio-with-react.git/static/media/telegram.6f5bdc76.png"
+    "main.css": "/portfolio-with-react/static/css/main.9c2a5e96.chunk.css",
+    "main.js": "/portfolio-with-react/static/js/main.712612a2.chunk.js",
+    "main.js.map": "/portfolio-with-react/static/js/main.712612a2.chunk.js.map",
+    "runtime-main.js": "/portfolio-with-react/static/js/runtime-main.ceb50804.js",
+    "runtime-main.js.map": "/portfolio-with-react/static/js/runtime-main.ceb50804.js.map",
+    "static/js/2.b2a8d1aa.chunk.js": "/portfolio-with-react/static/js/2.b2a8d1aa.chunk.js",
+    "static/js/2.b2a8d1aa.chunk.js.map": "/portfolio-with-react/static/js/2.b2a8d1aa.chunk.js.map",
+    "index.html": "/portfolio-with-react/index.html",
+    "static/css/main.9c2a5e96.chunk.css.map": "/portfolio-with-react/static/css/main.9c2a5e96.chunk.css.map",
+    "static/js/2.b2a8d1aa.chunk.js.LICENSE.txt": "/portfolio-with-react/static/js/2.b2a8d1aa.chunk.js.LICENSE.txt",
+    "static/media/github.1b063b6c.png": "/portfolio-with-react/static/media/github.1b063b6c.png",
+    "static/media/instagram.f0c161ca.png": "/portfolio-with-react/static/media/instagram.f0c161ca.png",
+    "static/media/logo.f2c93d36.png": "/portfolio-with-react/static/media/logo.f2c93d36.png",
+    "static/media/logoInfo.33a8d614.jpg": "/portfolio-with-react/static/media/logoInfo.33a8d614.jpg",
+    "static/media/telegram.6f5bdc76.png": "/portfolio-with-react/static/media/telegram.6f5bdc76.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ffb1f48.js",
+    "static/js/runtime-main.ceb50804.js",
     "static/js/2.b2a8d1aa.chunk.js",
     "static/css/main.9c2a5e96.chunk.css",
-    "static/js/main.e4f658c2.chunk.js"
+    "static/js/main.712612a2.chunk.js"
   ]
 }
