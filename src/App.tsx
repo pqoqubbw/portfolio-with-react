@@ -15,7 +15,7 @@ import './app.css';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="app">
         <NavBar />
         <Switch>
